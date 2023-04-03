@@ -1,11 +1,11 @@
 # YouTube-Analytics-ETL
 An end-to-end ETL data-pipeline on using AWS to perform analysis on structured and semi-structured data
 
-#Goal
+# Goal
 1. To perform data ingestion by building a mechanism to ingest data from different sources and developing a data-lake to store structured and semi-structured data
 2. Build Analytics Reporting Dashboard 
 
-#AWS Services:
+# AWS Services:
 Amazon S3
 AWS IAM
 QuickSight 
@@ -17,5 +17,5 @@ This Kaggle dataset contains statistics (CSV files) on daily popular YouTube vid
 
 https://www.kaggle.com/datasets/datasnaek/youtube-new
 
-
+# Architecture
 ![Data Architecture](https://user-images.githubusercontent.com/29363600/229392749-68c2aa1a-401f-4231-956b-4420a082d33f.jpeg)
