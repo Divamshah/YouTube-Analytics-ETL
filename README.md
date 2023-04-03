@@ -6,9 +6,10 @@ An end-to-end ETL data-pipeline on using AWS to perform analysis on structured a
 2. Build Analytics Reporting Dashboard 
 
 # AWS Services:
-Amazon S3
+AWS S3
+AWS Glue
 AWS IAM
-QuickSight 
+AWS QuickSight 
 AWS Lambda 
 AWS Athena
 
